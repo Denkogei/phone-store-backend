@@ -1,444 +1,328 @@
 {
-  "example": [
+  "phones": [
     {
-      "id": 1,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "1",
+      "name": "iPhone 13 Pro Max",
+      "description": "6.7-inch display, A15 Bionic chip, 12MP camera, 128GB storage, Graphite color.",
+      "price": 999,
+      "image": "https://phonesstorekenya.com/wp-content/uploads/2021/09/Apple-iPhone-13-Pro-Max.jpg",
+      "status": "available",
+      "phone_number": "+254700000001"
     },
     {
-      "id": 2,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "2",
+      "name": "Samsung Galaxy S21 Ultra",
+      "description": "6.8-inch display, Exynos 2100, 108MP camera, 256GB storage, Phantom Black color.",
+      "price": 849,
+      "image": "https://angkormeas.com/wp-content/uploads/2024/07/used_21ultra_v9.jpg",
+      "status": "available",
+      "phone_number": "+254700000002"
     },
     {
-      "id": 3,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "3",
+      "name": "Google Pixel 6 Pro",
+      "description": "6.7-inch LTPO OLED, Google Tensor chip, 50MP camera, 128GB storage, Stormy Black color.",
+      "price": 799,
+      "image": "https://www.phonestablets.co.ke/wp-content/uploads/2021/09/Google-Pixel-6-Pro-Stormy-Black.jpg.webp",
+      "status": "out of stock",
+      "phone_number": "+254700000003"
     },
     {
-      "id": 4,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "5",
+      "name": "Xiaomi Mi 11 Ultra",
+      "description": "6.81-inch AMOLED, Snapdragon 888, 50MP camera, 256GB storage, Cosmic Black color.",
+      "price": 849,
+      "image": "https://www.instok.co.ke/image/cache/products/a049dbf99d5eb31f9b6250602a7f5331-600x600.jpg",
+      "status": "available",
+      "phone_number": "+254700000004"
     },
     {
-      "id": 5,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "6",
+      "name": "Apple iPhone 12 Mini",
+      "description": "5.4-inch display, A14 Bionic chip, 12MP camera, 64GB storage, Blue color.",
+      "price": 699,
+      "image": "https://www.digitalstore.co.ke/cdn/shop/products/apple-iphone-12-mini-64gb-i3.jpg?v=1635521528",
+      "status": "out of stock",
+      "phone_number": "+254700000005"
     },
     {
-      "id": 6,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "7",
+      "name": "Samsung Galaxy Note 20 Ultra",
+      "description": "6.9-inch Dynamic AMOLED, Exynos 990, 108MP camera, 256GB storage, Mystic Bronze color.",
+      "price": 999,
+      "image": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/76/2146251/1.jpg?7851",
+      "status": "available",
+      "phone_number": "+254700000006"
     },
     {
-      "id": 7,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "8",
+      "name": "Oppo Find X3 Pro",
+      "description": "6.7-inch AMOLED, Snapdragon 888, 50MP camera, 256GB storage, Gloss Black color.",
+      "price": 929,
+      "image": "https://www.humtechke.com/wp-content/uploads/2022/07/Oppo-Find-X3.jpg",
+      "status": "available",
+      "phone_number": "+254700000007"
     },
     {
-      "id": 8,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "9",
+      "name": "Sony Xperia 1 II",
+      "description": "6.5-inch OLED, Snapdragon 865, 12MP camera, 256GB storage, Black color.",
+      "price": 899,
+      "image": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-1-iii.jpg",
+      "status": "out of stock",
+      "phone_number": "+254700000008"
     },
     {
-      "id": 9,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "10",
+      "name": "Asus ROG Phone 5",
+      "description": "6.78-inch AMOLED, Snapdragon 888, 64MP camera, 256GB storage, Phantom Black color.",
+      "price": 1099,
+      "image": "https://www.phonestablets.co.ke/wp-content/uploads/2021/09/gsmarena_001-5.jpg",
+      "status": "available",
+      "phone_number": "+254700000009"
     },
     {
-      "id": 10,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "11",
+      "name": "iPhone 11 Pro Max",
+      "description": "6.5-inch OLED display, A13 Bionic chip, 12MP triple camera system, 64GB storage.",
+      "price": 799,
+      "image": "https://phonesstorekenya.com/wp-content/uploads/2019/09/Apple-iPhone-11-Pro-Gray.jpg",
+      "status": "available",
+      "phone_number": "+254700000010"
     },
     {
-      "id": 11,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "12",
+      "name": "Samsung Galaxy S20 FE",
+      "description": "6.5-inch AMOLED, Exynos 990, 12MP camera, 128GB storage, Cloud Mint color.",
+      "price": 599,
+      "image": "https://gadgetcentral.co.ke/wp-content/uploads/2020/10/1-PACKSHOT-S20-FE-1-600x600.jpg",
+      "status": "available",
+      "phone_number": "+254700000011"
     },
     {
-      "id": 12,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "13",
+      "name": "Google Pixel 5",
+      "description": "6.0-inch OLED, Snapdragon 765G, 16MP camera, 128GB storage, Just Black color.",
+      "price": 499,
+      "image": "https://images-cdn.ubuy.com.sa/633b6ae9222a330933163022-used-google-pixel-5-fully-unlocked.jpg",
+      "status": "out of stock",
+      "phone_number": "+254700000012"
     },
     {
-      "id": 13,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "14",
+      "name": "OnePlus 8T",
+      "description": "6.55-inch Fluid AMOLED, Snapdragon 865, 48MP quad-camera setup, 128GB storage.",
+      "price": 569,
+      "image": "https://m.media-amazon.com/images/I/71Tob9uP2XL.jpg",
+      "status": "available",
+      "phone_number": "+254700000013"
     },
     {
-      "id": 14,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "15",
+      "name": "Xiaomi Redmi Note 10 Pro",
+      "description": "6.67-inch AMOLED, Snapdragon 732G, 108MP camera, 128GB storage, Onyx Gray color.",
+      "price": 299,
+      "image": "https://images-cdn.ubuy.co.in/6457677d5b51cc09e728586d-redmi-xiaomi-note-10-pro-5g-hd-voice.jpg",
+      "status": "available",
+      "phone_number": "+254700000014"
     },
     {
-      "id": 15,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "16",
+      "name": "Motorola Edge Plus",
+      "description": "6.7-inch OLED, Snapdragon 865, 108MP camera, 256GB storage, Thunder Gray color.",
+      "price": 999,
+      "image": "https://i5.walmartimages.com/seo/Motorola-Edge-2022-4800mAh-Battery-Unlocked-Made-for-US-8-512GB-50MP-Camera-Cosmos-Blue_eebc3082-ac82-40c6-9bf1-3bf5d02a9fe4.866e741d718bae5190c30ed3901331ed.jpeg",
+      "status": "available",
+      "phone_number": "+254700000015"
     },
     {
-      "id": 16,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "17",
+      "name": "Sony Xperia 10 II",
+      "description": "6.0-inch OLED, Snapdragon 665, 12MP triple camera, 128GB storage, Black color.",
+      "price": 399,
+      "image": "https://api.priceinkenya.com/media/123089/conversions/sony-xperia-10-ii-4gb128gb-VoybwJudNa-original.webp",
+      "status": "available",
+      "phone_number": "+254700000016"
     },
     {
-      "id": 17,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "18",
+      "name": "Nokia 8.3 5G",
+      "description": "6.81-inch IPS LCD, Snapdragon 765G, 64MP quad-camera, 128GB storage, Polar Night color.",
+      "price": 499,
+      "image": "https://images.ctfassets.net/wcfotm6rrl7u/12hVmTabVOfaZX2orFYnwn/7317299d96cf5c43dfbfe8491bbf7016/nokia-8_3_5G-polar_night-front_back-int.png?h=1000&fm=png&fl=png8",
+      "status": "out of stock",
+      "phone_number": "+1-800-123-4567"
     },
     {
-      "id": 18,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "19",
+      "name": "LG Velvet",
+      "description": "6.8-inch P-OLED, Snapdragon 765G, 48MP camera, 128GB storage, Aurora Gray color.",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/61+UJTngkiS._AC_UF894,1000_QL80_.jpg",
+      "status": "available",
+      "phone_number": "+1-800-765-4321"
     },
     {
-      "id": 19,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "20",
+      "name": "Realme GT",
+      "description": "6.43-inch Super AMOLED, Snapdragon 870, 64MP triple camera, 128GB storage, Racing Yellow color.",
+      "price": 399,
+      "image": "https://cdn-ilbllbp.nitrocdn.com/izJvrWecYqVMOgGbOvJyNRZTOQGpONoc/assets/images/optimized/rev-527a764/www.mobilehub.co.ke/storage/2023/09/realme-gt-master-a-600x600-1-2.jpg",
+      "status": "available",
+      "phone_number": "+1-800-890-1234"
     },
     {
-      "id": 20,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "21",
+      "name": "iPhone SE 2020",
+      "description": "4.7-inch Retina HD display, A13 Bionic chip, 12MP camera, 64GB storage, Red color.",
+      "price": 399,
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2020/04/Apple-iPhone-SE-2020.jpg",
+      "status": "available",
+      "phone_number": "+1-800-999-5678"
     },
     {
-      "id": 21,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "22",
+      "name": "Samsung Galaxy Z Fold 3",
+      "description": "7.6-inch Dynamic AMOLED, Snapdragon 888, 12MP camera, 256GB storage, Phantom Black color.",
+      "price": 1799,
+      "image": "https://zurimall.co.ke/wp-content/uploads/2024/04/Samsung-Galaxy-Z-Fold-3-b.jpg",
+      "status": "available",
+      "phone_number": "+1-800-112-3344"
     },
     {
-      "id": 22,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "23",
+      "name": "Huawei Mate 40 Pro",
+      "description": "6.76-inch OLED, Kirin 9000, 50MP camera, 256GB storage, Mystic Silver color.",
+      "price": 1199,
+      "image": "https://api.priceinkenya.com/media/123249/conversions/huawei-mate-40-pro-8gb256gb-MpY3BkLYtF-original.webp",
+      "status": "available",
+      "phone_number": "+1-800-445-6789"
     },
     {
-      "id": 23,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "24",
+      "name": "Honor Magic 3 Pro",
+      "description": "6.76-inch OLED, Snapdragon 888+, 50MP camera, 256GB storage, Black color.",
+      "price": 999,
+      "image": "https://mobilochka.ae/image/cache/dd92cf46fbc641d436b0e8ed504836e3.jpg",
+      "status": "available",
+      "phone_number": "+1-800-556-1234"
     },
     {
-      "id": 24,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "25",
+      "name": "Apple iPhone XR",
+      "description": "6.1-inch Liquid Retina display, A12 Bionic chip, 12MP camera, 64GB storage, Yellow color.",
+      "price": 549,
+      "image": "https://www.apple.com/newsroom/images/product/iphone/standard/iPhone_XR_black-back_09122018_carousel.jpg.large.jpg",
+      "status": "available",
+      "phone_number": "+1-800-667-4321"
     },
     {
-      "id": 25,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "26",
+      "name": "Samsung Galaxy A52",
+      "description": "6.5-inch Super AMOLED, Snapdragon 720G, 64MP camera, 128GB storage, Awesome Black color.",
+      "price": 350,
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/03/Samsung-Galaxy-A52-c.jpg",
+      "status": "available",
+      "phone_number": "+1-800-123-9876"
     },
     {
-      "id": 26,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "27",
+      "name": "Xiaomi Poco X3 Pro",
+      "description": "6.67-inch IPS LCD, Snapdragon 860, 48MP camera, 128GB storage, Phantom Black color.",
+      "price": 249,
+      "image": "https://phonesstorekenya.com/wp-content/uploads/2021/03/Xiaomi-Poco-X3-Pro-a.jpg",
+      "status": "available",
+      "phone_number": "+1-800-345-6789"
     },
     {
-      "id": 27,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "28",
+      "name": "Realme 8 Pro",
+      "description": "6.4-inch Super AMOLED, Snapdragon 720G, 108MP camera, 128GB storage, Infinite Blue color.",
+      "price": 269,
+      "image": "https://phonesstorekenya.com/wp-content/uploads/2021/06/Realme-8-a.jpg",
+      "status": "available",
+      "phone_number": "+1-800-234-5678"
     },
     {
-      "id": 28,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "29",
+      "name": "Vivo X60 Pro",
+      "description": "6.56-inch AMOLED, Snapdragon 870, 48MP camera, 256GB storage, Midnight Black color.",
+      "price": 799,
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2021/09/Vivo-X60-Pro.jpg",
+      "status": "available",
+      "phone_number": "+1-800-678-1234"
     },
     {
-      "id": 29,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "30",
+      "name": "Asus Zenfone 8",
+      "description": "5.9-inch AMOLED, Snapdragon 888, 64MP camera, 128GB storage, Horizon Silver color.",
+      "price": 799,
+      "image": "https://www.notebookcheck.net/fileadmin/_processed_/4/4/csm_Asus_Zenfone_8_1_f4b476962c.png",
+      "status": "available",
+      "phone_number": "+1-800-321-9876"
     },
     {
-      "id": 30,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "31",
+      "name": "iPhone 12 Pro",
+      "description": "6.1-inch OLED display, A14 Bionic chip, 12MP triple camera system, 128GB storage.",
+      "price": 999,
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2020/08/Apple-iPhone-12-Pro-Max.jpg",
+      "status": "available",
+      "phone_number": "+1-800-777-6543"
     },
     {
-      "id": 31,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "32",
+      "name": "Samsung Galaxy Z Flip 3",
+      "description": "6.7-inch Dynamic AMOLED, Snapdragon 888, 12MP camera, 128GB storage, Phantom Black color.",
+      "price": 999,
+      "image": "https://www.pricepoint.co.ke/wp-content/uploads/2021/07/Samsung-Galaxy-Z-Flip-3-j.jpg",
+      "status": "available",
+      "pphone_number": "+1-800-112-3344"
     },
     {
-      "id": 32,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "33",
+      "name": "Google Pixel 4a",
+      "description": "5.81-inch OLED, Snapdragon 730G, 12MP camera, 128GB storage, Just Black color.",
+      "price": 349,
+      "image": "https://mobileprokenya.odoo.com/web/image/product.template/1878/image_1024?unique=a0bee9b",
+      "status": "available",
+      "phone_number": "+1-800-432-9876"
     },
     {
-      "id": 33,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "f3a7",
+      "name": "Tecno Pop 9 ",
+      "description": "Operating System: Android 14 Go\nProcessor: T615\nNetwork: 4.5G (LTE Advanced); Dual Sim \nScreen: 6.67” Hole Screen; Refresh Rate: 120Hz\nRAM & Storage:  6GB RAM (3GB + 3GB Extended RAM) +  128GB Storage\nFront Camera: 8MP with Dual Flash\nRear Camera: 13MP with Dual Flash\nWater Resistance: IP54 Rating (Dust and Splash Resistant)\nSensor: Side Fingerprint Sensor\nInfrared Remote Control: Functions as a remote for home appliances\nBattery Capacity: 5000mAh; Charging: 15W Fast Charge, Type-C Port\nSpeakers: Dual Speakers\nSound Quality: DTS Sound",
+      "price": "14000",
+      "status": "available",
+      "image": "https://fonexpress.net/wp-content/uploads/2024/09/TECNO-POP9-3GB-128GB.png",
+      "phone_number": "0724554147"
     },
     {
-      "id": 34,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "7742",
+      "name": "redmi Note 11",
+      "description": "RAM: 4GB, 6GB\nInternal Storage: 128GB\nBattery: 5000 mAh, 33W, 100% in 60 min\nMain camera: 50MP + 8MP + 2MP + 2MP\nFront camera: 13 MP\nDisplay: 6.43 inch, AMOLED, 90Hz\nProcessor: Qualcomm Snapdragon 680 4G\nConnectivity: Dual sim, 3G, 4G, VoLTE, Wi-Fi\nColors: Graphite Gray, Pearl White, Star Blue\nOS: Android 11, MIUI 13",
+      "price": "23000",
+      "status": "available",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2022/01/Redmi-Note-11-A.jpg",
+      "phoneNumber": "0724554147"
     },
     {
-      "id": 35,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "492f",
+      "name": "Infinix Hot 50 Pro Plus",
+      "description": "Dual Sim, 3G, 4G, Vo5G, Wi-Fi, NFC\nHelio G100, Octa Core, 2.2 GHz Processor\n8 GB RAM, 128 GB inbuilt\n5000 mAh Battery with 33W Fast Charging\n6.78 inches, 1080 x 2436 px, 120 Hz Display\n50 MP + 2 MP Triple Rear & 13 MP Front Camera\nMemory Card Supported\nAndroid v14",
+      "price": "25000",
+      "status": "available",
+      "image": "https://phonesstorekenya.com/wp-content/uploads/2024/08/Infinix-Hot-50-Pro-Plus1.jpg",
+      "phoneNumber": "0724554147"
     },
     {
-      "id": 36,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 37,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 38,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 39,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
-    },
-    {
-      "id": 40,
-      "exampleAttributeString": "This is just an example. Please supply your own data.",
-      "exampleImgString": "https://placehold.co/150x150.jpg",
-      "exampleAttributesArray": ["Replace", "this", "data"],
-      "exampleAttributeNumber": 2341,
-      "exampleAttributeObj": {
-        "objectKey": "objectValue"
-      },
-      "exampleAttributeBoolean": false
+      "id": "e174",
+      "name": "Infinix Hot 40 Pro",
+      "description": "RAM: 8GB\nROM:  256GB\nOS: Android 13, XOS 13.5\nMain Camera: 108MP + 2MP + 0.08MP\nSelfie Camera: 32MP\nDisplay: 6.78 inches, IPS LCD, 120Hz\nProcessor:  Octa-core, Unisoc T606 (12 nm)\nConnectivity: 4G, Dual SIM",
+      "price": "22000",
+      "status": "available",
+      "image": "https://cellularkenya.co.ke/wp-content/uploads/2023/12/Infinix-Hot-40-Pro-4G-1-e1704047909439.jpeg",
+      "phoneNumber": "0724554147"
     }
   ]
 }
